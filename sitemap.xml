@@ -2,18 +2,18 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://ramirezg.github.io/blog/</loc>
+    <loc>https://ramirezg.github.io/</loc>
     <lastmod>2015-10-11T16:12:32-04:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://ramirezg.github.io/blog/about/</loc>
+    <loc>https://ramirezg.github.io/about/</loc>
     <lastmod>2015-10-11T16:12:32-04:00</lastmod>
   </url>
   
   <url>
-    <loc>https://ramirezg.github.io/blog/post/python-schedulers/</loc>
+    <loc>https://ramirezg.github.io/post/python-schedulers/</loc>
     <lastmod>2015-10-11T16:10:19-04:00</lastmod>
   </url>
   
