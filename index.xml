@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Gabriel Ramirez&#39;s blog</title>
+    <link>https://ramirezg.github.io/blog/</link>
+    <description>Recent content on Gabriel Ramirez&#39;s blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 11 Oct 2015 16:12:32 -0400</lastBuildDate>
+    <atom:link href="https://ramirezg.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>about</title>
+      <link>https://ramirezg.github.io/blog/about/</link>
+      <pubDate>Sun, 11 Oct 2015 16:12:32 -0400</pubDate>
+      
+      <guid>https://ramirezg.github.io/blog/about/</guid>
+      <description>
+
+&lt;h4 id=&#34;gabriel-ramirez-field-notes:6083a88ee3411b0d17ce02d738f69d47&#34;&gt;Gabriel Ramirez - Field Notes&lt;/h4&gt;
+
+&lt;p&gt;Guanaco, Latino coder, data scientist, طالب اللغة العربية, podcast enthusiast, aspiring guitarrista &amp;amp; dev. @18f&lt;/p&gt;
+
+&lt;h4 id=&#34;links:6083a88ee3411b0d17ce02d738f69d47&#34;&gt;Links&lt;/h4&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://github.com/ramirezg&#34;&gt;Github&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&#34;https://www.linkedin.com/in/gramire1&#34;&gt;Linkedin&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&#34;https://twitter.com/gramire1&#34;&gt;Twitter&lt;/a&gt;&lt;/p&gt;
+
+&lt;h4 id=&#34;education:6083a88ee3411b0d17ce02d738f69d47&#34;&gt;Education&lt;/h4&gt;
+
+&lt;p&gt;Swarthmore College - Sociology &amp;amp; Anthroplogy - B.A. - 2010&lt;br /&gt;
+UMD/Alexandria University, Egypt - Arabic Language - Masters - 2012&lt;br /&gt;
+Univeristy of Washington - Data Science - Certificate - 2015&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>python schedulers</title>
+      <link>https://ramirezg.github.io/blog/post/python-schedulers/</link>
+      <pubDate>Sun, 11 Oct 2015 16:10:19 -0400</pubDate>
+      
+      <guid>https://ramirezg.github.io/blog/post/python-schedulers/</guid>
+      <description>
+
+&lt;h2 id=&#34;python-schedulers:22cc9505a990a883c3cd651831f076ca&#34;&gt;Python schedulers&lt;/h2&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
